@@ -1,7 +1,7 @@
 #!/bin/bash
 # 优化的 GCP API 密钥管理工具
 # 支持 Gemini API 和 Vertex AI
-# 版本: 2.2.0
+# 版本: 2.2.1
 
 # 仅启用 errtrace (-E) 与 nounset (-u)
 set -Euo
